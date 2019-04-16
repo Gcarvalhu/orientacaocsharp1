@@ -9,3 +9,14 @@ C:\Users\47918607805\Documents\OO\SalaDeAula\obj\Debug\netcoreapp2.1\SalaDeAula.
 C:\Users\47918607805\Documents\OO\SalaDeAula\obj\Debug\netcoreapp2.1\SalaDeAula.AssemblyInfo.cs
 C:\Users\47918607805\Documents\OO\SalaDeAula\obj\Debug\netcoreapp2.1\SalaDeAula.dll
 C:\Users\47918607805\Documents\OO\SalaDeAula\obj\Debug\netcoreapp2.1\SalaDeAula.pdb
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\SalaDeAula\bin\Debug\netcoreapp2.1\SalaDeAula.deps.json
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\SalaDeAula\bin\Debug\netcoreapp2.1\SalaDeAula.runtimeconfig.json
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\SalaDeAula\bin\Debug\netcoreapp2.1\SalaDeAula.runtimeconfig.dev.json
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\SalaDeAula\bin\Debug\netcoreapp2.1\SalaDeAula.dll
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\SalaDeAula\bin\Debug\netcoreapp2.1\SalaDeAula.pdb
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\SalaDeAula\obj\Debug\netcoreapp2.1\SalaDeAula.csprojAssemblyReference.cache
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\SalaDeAula\obj\Debug\netcoreapp2.1\SalaDeAula.csproj.CoreCompileInputs.cache
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\SalaDeAula\obj\Debug\netcoreapp2.1\SalaDeAula.AssemblyInfoInputs.cache
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\SalaDeAula\obj\Debug\netcoreapp2.1\SalaDeAula.AssemblyInfo.cs
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\SalaDeAula\obj\Debug\netcoreapp2.1\SalaDeAula.dll
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\SalaDeAula\obj\Debug\netcoreapp2.1\SalaDeAula.pdb

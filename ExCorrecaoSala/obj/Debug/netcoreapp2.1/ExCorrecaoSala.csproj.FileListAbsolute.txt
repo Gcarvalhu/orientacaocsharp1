@@ -1,0 +1,11 @@
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\ExCorrecaoSala\bin\Debug\netcoreapp2.1\ExCorrecaoSala.deps.json
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\ExCorrecaoSala\bin\Debug\netcoreapp2.1\ExCorrecaoSala.runtimeconfig.json
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\ExCorrecaoSala\bin\Debug\netcoreapp2.1\ExCorrecaoSala.runtimeconfig.dev.json
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\ExCorrecaoSala\bin\Debug\netcoreapp2.1\ExCorrecaoSala.dll
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\ExCorrecaoSala\bin\Debug\netcoreapp2.1\ExCorrecaoSala.pdb
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\ExCorrecaoSala\obj\Debug\netcoreapp2.1\ExCorrecaoSala.csprojAssemblyReference.cache
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\ExCorrecaoSala\obj\Debug\netcoreapp2.1\ExCorrecaoSala.csproj.CoreCompileInputs.cache
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\ExCorrecaoSala\obj\Debug\netcoreapp2.1\ExCorrecaoSala.AssemblyInfoInputs.cache
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\ExCorrecaoSala\obj\Debug\netcoreapp2.1\ExCorrecaoSala.AssemblyInfo.cs
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\ExCorrecaoSala\obj\Debug\netcoreapp2.1\ExCorrecaoSala.dll
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\ExCorrecaoSala\obj\Debug\netcoreapp2.1\ExCorrecaoSala.pdb

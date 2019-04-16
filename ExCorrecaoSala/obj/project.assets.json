@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\47918607805\\Documents\\OO\\orientacaocsharp1\\SalaDeAula\\SalaDeAula.csproj",
-      "projectName": "SalaDeAula",
-      "projectPath": "c:\\Users\\47918607805\\Documents\\OO\\orientacaocsharp1\\SalaDeAula\\SalaDeAula.csproj",
+      "projectUniqueName": "C:\\Users\\47918607805\\Documents\\OO\\orientacaocsharp1\\ExCorrecaoSala\\ExCorrecaoSala.csproj",
+      "projectName": "ExCorrecaoSala",
+      "projectPath": "C:\\Users\\47918607805\\Documents\\OO\\orientacaocsharp1\\ExCorrecaoSala\\ExCorrecaoSala.csproj",
       "packagesPath": "C:\\Users\\47918607805\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\47918607805\\Documents\\OO\\orientacaocsharp1\\SalaDeAula\\obj\\",
+      "outputPath": "C:\\Users\\47918607805\\Documents\\OO\\orientacaocsharp1\\ExCorrecaoSala\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,12 +1,12 @@
 using System;
 namespace SalaDeAula {
     public class Aluno {
-        public string nome;
+        public string Nome {get; set;}
 
-        public DateTime dataNascimento;
+        public DateTime DataNascimento {get; set;}
 
-        public int numeroSala;
+        public int NumeroSala {get; set;}
 
-        public string Curso;
+        public string Curso {get; set;}
     }
 }
