@@ -68,12 +68,129 @@ namespace ExCorrecaoSala {
                             Console.ForegroundColor = ConsoleColor.Green;
                             Console.WriteLine ("Cadastro efetuado com sucesso");
                             Console.ResetColor ();
+
+                            System.Console.WriteLine ("Aperte a tecla ENTER para voltar ao menu");
+                            Console.ReadLine ();
                         } //fim if
                         break;
                     case 3:
-                        System.Console.WriteLine ("Para qual sala você gostaria de alocar um aluno?");
-                        int num = int.Parse (Console.ReadLine ());
+                        if (contadorAluno == 0) {
+                            Console.ForegroundColor = ConsoleColor.Yellow;
+                            System.Console.WriteLine ($"Não há um aluno cadastrado");
+                            Console.ResetColor ();
 
+                            System.Console.WriteLine ("Aperte a tecla ENTER para voltar ao menu");
+                            Console.ReadLine ();
+                            continue;
+                        } //fim if
+                        if (contadorSala == 0) {
+                            Console.ForegroundColor = ConsoleColor.Yellow;
+                            System.Console.WriteLine ($"Não há sala cadastrada");
+                            Console.ResetColor ();
+
+                            System.Console.WriteLine ("Aperte a tecla ENTER para voltar ao menu");
+                            Console.ReadLine ();
+                            continue;
+
+                        }
+                        System.Console.WriteLine ("Digite o nome do aluno");
+                        string nomeAluno = Console.ReadLine ();
+                        Aluno alunoRecuperadoAloc = null;
+                        foreach (Aluno item in alunos) {
+                            if (item != null && nomeAluno.Equals (item.Nome)) {
+                                alunoRecuperadoAloc = item;
+                                break;
+                            }
+                        }
+                        if (alunoRecuperadoAloc == null) {
+                            Console.ForegroundColor = ConsoleColor.Yellow;
+                            System.Console.WriteLine ($"Não há sala cadastrada");
+                            Console.ResetColor ();
+
+                            System.Console.WriteLine ("Aperte a tecla ENTER para voltar ao menu");
+                            Console.ReadLine ();
+                            continue;
+                        }
+                        System.Console.WriteLine ("Digite o numero da sala");
+                        int numeroSalaAloc = int.Parse (Console.ReadLine ());
+                        Sala salaRecuperadaAloc = null;
+                        foreach (Sala item in salas) {
+                            if (item != null && numeroSalaAloc.Equals (item.NumeroSala)) {
+                                salaRecuperadaAloc = item;
+                                break;
+                            }
+                        }
+                        if (salaRecuperadaAloc == null) {
+                            Console.ForegroundColor = ConsoleColor.Yellow;
+                            System.Console.WriteLine ($"Não há sala cadastrada com o numero {numeroSalaAloc}");
+                            Console.ResetColor ();
+
+                            System.Console.WriteLine ("Aperte a tecla ENTER para voltar ao menu");
+                            Console.ReadLine ();
+                            continue;
+                        }
+                        Console.ForegroundColor = ConsoleColor.Blue;
+                        System.Console.WriteLine (salaRecuperadaAloc.AlocarAluno (alunoRecuperadoAloc.Nome));
+
+                        break;
+                    case 4:
+                        if (contadorAluno == 0) {
+                            Console.ForegroundColor = ConsoleColor.Yellow;
+                            System.Console.WriteLine ($"Não há um aluno cadastrado");
+                            Console.ResetColor ();
+
+                            System.Console.WriteLine ("Aperte a tecla ENTER para voltar ao menu");
+                            Console.ReadLine ();
+                            continue;
+                        } //fim if
+                        if (contadorSala == 0) {
+                            Console.ForegroundColor = ConsoleColor.Yellow;
+                            System.Console.WriteLine ($"Não há sala cadastrada");
+                            Console.ResetColor ();
+
+                            System.Console.WriteLine ("Aperte a tecla ENTER para voltar ao menu");
+                            Console.ReadLine ();
+                            continue;
+
+                        }
+                        System.Console.WriteLine ("Digite o nome do aluno");
+                        string numeroSalaRem = Console.ReadLine ();
+                        Sala salaRecuperadaRem = null;
+                        foreach (Sala item in salas) {
+                            if (item != null && numeroSalaRem.Equals (item.Sala)) {
+                                salaRecuperadaRem = item;
+                                break;
+                            }
+                        }
+                        if (salaRecuperadaRem == null) {
+                            Console.ForegroundColor = ConsoleColor.Yellow;
+                            System.Console.WriteLine ($"Não há sala cadastrada");
+                            Console.ResetColor ();
+
+                            System.Console.WriteLine ("Aperte a tecla ENTER para voltar ao menu");
+                            Console.ReadLine ();
+                            continue;
+                        }
+                        System.Console.WriteLine ("Digite o numero da sala");
+                        int numeroSalaRem = int.Parse (Console.ReadLine ());
+                        Sala salaRecuperadaRem = null;
+                        foreach (Sala item in salas) {
+                            if (item != null && numeroSalaRem.Equals (item.NumeroSala)) {
+                                salaRecuperadaAloc = item;
+                                break;
+                            }
+                        }
+                        if (salaRecuperadaAloc == null) {
+                            Console.ForegroundColor = ConsoleColor.Yellow;
+                            System.Console.WriteLine ($"Não há sala cadastrada com o numero {numeroSalaAloc}");
+                            Console.ResetColor ();
+
+                            System.Console.WriteLine ("Aperte a tecla ENTER para voltar ao menu");
+                            Console.ReadLine ();
+                            continue;
+                        }
+                        Console.ForegroundColor = ConsoleColor.Blue;
+                        System.Console.WriteLine (salaRecuperadaAloc.AlocarAluno (salaRecuperadaRem.Sala));
                         break;
                     case 5:
                         //Listar salas
