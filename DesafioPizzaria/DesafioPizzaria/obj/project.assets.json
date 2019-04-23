@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\47918607805\\Documents\\OO\\orientacaocsharp1\\Ex1\\Ex1.csproj",
-      "projectName": "Ex1",
-      "projectPath": "c:\\Users\\47918607805\\Documents\\OO\\orientacaocsharp1\\Ex1\\Ex1.csproj",
+      "projectUniqueName": "c:\\Users\\47918607805\\Documents\\OO\\orientacaocsharp1\\DesafioPizzaria\\DesafioPizzaria\\DesafioPizzaria.csproj",
+      "projectName": "DesafioPizzaria",
+      "projectPath": "c:\\Users\\47918607805\\Documents\\OO\\orientacaocsharp1\\DesafioPizzaria\\DesafioPizzaria\\DesafioPizzaria.csproj",
       "packagesPath": "C:\\Users\\47918607805\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\47918607805\\Documents\\OO\\orientacaocsharp1\\Ex1\\obj\\",
+      "outputPath": "c:\\Users\\47918607805\\Documents\\OO\\orientacaocsharp1\\DesafioPizzaria\\DesafioPizzaria\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
