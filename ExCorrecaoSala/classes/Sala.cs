@@ -1,4 +1,4 @@
-namespace ExCorrecaoSala {
+namespace ExCorrecaoSala.classes {
     public class Sala {
         public int NumeroSala { get; set; }
         public int CapacidadeAtual { get; set; }
