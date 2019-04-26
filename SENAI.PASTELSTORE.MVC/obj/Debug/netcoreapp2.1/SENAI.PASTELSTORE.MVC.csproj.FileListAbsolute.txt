@@ -1,0 +1,11 @@
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\SENAI.PASTELSTORE.MVC\bin\Debug\netcoreapp2.1\SENAI.PASTELSTORE.MVC.deps.json
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\SENAI.PASTELSTORE.MVC\bin\Debug\netcoreapp2.1\SENAI.PASTELSTORE.MVC.runtimeconfig.json
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\SENAI.PASTELSTORE.MVC\bin\Debug\netcoreapp2.1\SENAI.PASTELSTORE.MVC.runtimeconfig.dev.json
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\SENAI.PASTELSTORE.MVC\bin\Debug\netcoreapp2.1\SENAI.PASTELSTORE.MVC.dll
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\SENAI.PASTELSTORE.MVC\bin\Debug\netcoreapp2.1\SENAI.PASTELSTORE.MVC.pdb
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\SENAI.PASTELSTORE.MVC\obj\Debug\netcoreapp2.1\SENAI.PASTELSTORE.MVC.csprojAssemblyReference.cache
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\SENAI.PASTELSTORE.MVC\obj\Debug\netcoreapp2.1\SENAI.PASTELSTORE.MVC.csproj.CoreCompileInputs.cache
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\SENAI.PASTELSTORE.MVC\obj\Debug\netcoreapp2.1\SENAI.PASTELSTORE.MVC.AssemblyInfoInputs.cache
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\SENAI.PASTELSTORE.MVC\obj\Debug\netcoreapp2.1\SENAI.PASTELSTORE.MVC.AssemblyInfo.cs
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\SENAI.PASTELSTORE.MVC\obj\Debug\netcoreapp2.1\SENAI.PASTELSTORE.MVC.dll
+C:\Users\47918607805\Documents\OO\orientacaocsharp1\SENAI.PASTELSTORE.MVC\obj\Debug\netcoreapp2.1\SENAI.PASTELSTORE.MVC.pdb
